@@ -26,7 +26,7 @@ After reaching the project directory you have to run the following the command.
         npm start || nodemon index.js
    ````
 
-#### If you want to make an employee as admin then use the secret key : monkey.
+#### If you want to make an employee as admin then use the secret key : priya.
 
 ### Features
 
@@ -35,26 +35,33 @@ After reaching the project directory you have to run the following the command.
   
   # HomePage / Admin View
   
-  
+  ![admin](https://github.com/priyaakumari/employeeReviewSystemPro/assets/46952823/c3271826-93ee-4caf-a486-3b51010cb290)
+
   # Home page / Employee view
   
-  
+  ![employee](https://github.com/priyaakumari/employeeReviewSystemPro/assets/46952823/19cb1d0d-a705-444c-a90d-f6201ce495b8)
+
   # Sign-Up
+![sign-up](https://github.com/priyaakumari/employeeReviewSystemPro/assets/46952823/1e26a02b-cc6d-46ec-a0b2-87c6d7685b65)
 
 
   # Sign-In
   
+![sign-in](https://github.com/priyaakumari/employeeReviewSystemPro/assets/46952823/c6fea3ad-20eb-48db-b6e6-3407a67458ad)
 
   # Forget Password
   
-  
+  ![forget-password](https://github.com/priyaakumari/employeeReviewSystemPro/assets/46952823/d2964f76-05eb-4512-bbe6-8233fe844fb5)
+
   # Assign Task
   
+![assign-work](https://github.com/priyaakumari/employeeReviewSystemPro/assets/46952823/de8418fc-9f3f-425c-9065-4e3f2bcc2a09)
 
   # Employee List
 
 
-  
+  ![employee-list](https://github.com/priyaakumari/employeeReviewSystemPro/assets/46952823/9742ef7c-5b12-43ef-a834-7600a212b1ff)
+
 
 ### Folder Structure
 
